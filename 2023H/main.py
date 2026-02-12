@@ -6,6 +6,10 @@ LastEditTime: 2026-02-12 19:39:17
 '''
 '''
 @induce:
+    main完成主要处理流程算法
+    方法：
+        buffle_sort()冒泡排序算法
+        get_integration()获取正弦波，方波，三角波的特征值用于区分三者
 '''
 
 import numpy as np
